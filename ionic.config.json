@@ -1,0 +1,7 @@
+{
+  "name": "periodizationAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
